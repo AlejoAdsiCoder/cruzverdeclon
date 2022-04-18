@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: transparent url('./assets/graphic1.svg') calc(100% - 23%) 86% no-repeat padding-box;;
 }
 
 code {

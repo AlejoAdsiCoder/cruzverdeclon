@@ -1,0 +1,32 @@
+.field-select {
+    max-width: 400px;
+    width: 100%;
+
+}
+
+.field-doc {
+    @extend .field-select;
+    margin-top: 12px;
+}
+
+.formNoms > div {
+    display: flex;
+    max-width: 400px;
+    gap: 20px;
+}
+
+.formNoms > div > * {
+    margin-top: 12px;
+}
+
+.formButton {
+    background: #3F3F41 0% 0% no-repeat padding-box;
+    border-radius: 31px;
+    opacity: 1;
+    color: white;
+    width: 273px;
+    height: 39px;
+    border: 0;
+    margin: 0 73px;
+    margin-top: 45px;
+}
